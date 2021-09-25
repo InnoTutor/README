@@ -27,16 +27,16 @@ It's a student activity where students who got either A, or B in some courses, h
 
 ## Diagrams 📊
 * **UML Case Diagram**:
-![Lab 3 2  Diagrams-UML Use Case Diagram](https://user-images.githubusercontent.com/69918609/134770611-fb37f6cf-0597-4544-992b-d9e547ab09ad.jpg){:height="200px"}
+![Lab 3 2  Diagrams-UML Use Case Diagram](https://user-images.githubusercontent.com/69918609/134770611-fb37f6cf-0597-4544-992b-d9e547ab09ad.jpg = 250x)
 * **Database Diagram**:
-![Database Diagram](https://user-images.githubusercontent.com/69918609/134770631-84834784-166a-4934-aafc-e5c5952322c0.jpg){:height="200px"}
+![Database Diagram](https://user-images.githubusercontent.com/69918609/134770631-84834784-166a-4934-aafc-e5c5952322c0.jpg = 250x)
 * **Sequence Diagram**:
-![Lab 4 2  Sequence diagram-Sequence Diagrams](https://user-images.githubusercontent.com/69918609/134770645-c04453de-abd8-4a8d-895e-64d2c119eee3.jpg){:height="200px"}
+![Lab 4 2  Sequence diagram-Sequence Diagrams](https://user-images.githubusercontent.com/69918609/134770645-c04453de-abd8-4a8d-895e-64d2c119eee3.jpg = 250x)
 * **Static View**:
-![Lab 3 1  Static_Dynamic_Allocation views-Static View](https://user-images.githubusercontent.com/69918609/134770668-5b6cb7cf-cecf-44f4-9e2f-2698267a4875.jpg){:height="200px"}
+![Lab 3 1  Static_Dynamic_Allocation views-Static View](https://user-images.githubusercontent.com/69918609/134770668-5b6cb7cf-cecf-44f4-9e2f-2698267a4875.jpg = 250x)
 * **Dynamic View**:
-![Lab 3 1  Static_Dynamic_Allocation views-Dynamic view](https://user-images.githubusercontent.com/69918609/134770681-9bcfec20-69cf-49c3-8dc5-451aa73b84b5.jpg){:height="200px"}
+![Lab 3 1  Static_Dynamic_Allocation views-Dynamic view](https://user-images.githubusercontent.com/69918609/134770681-9bcfec20-69cf-49c3-8dc5-451aa73b84b5.jpg = 250x)
 * **Allocation View**:
-![Lab 3 1  Static_Dynamic_Allocation views-Allocation view](https://user-images.githubusercontent.com/69918609/134770704-649a47ae-837a-4856-beb4-bfd72bed6a1f.jpg){:height="200px"}
+![Lab 3 1  Static_Dynamic_Allocation views-Allocation view](https://user-images.githubusercontent.com/69918609/134770704-649a47ae-837a-4856-beb4-bfd72bed6a1f.jpg = 250x)
 
 
