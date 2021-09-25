@@ -26,17 +26,18 @@ It's a student activity where students who got either A, or B in some courses, h
 * **Innopolis email**: an email that can get only students and staff of Innopolis University.
 
 ## Diagrams 📊
-* **UML Case Diagram**:
+* **UML Case Diagram**: <p>
 ![Lab 3 2  Diagrams-UML Use Case Diagram](https://user-images.githubusercontent.com/69918609/134770611-fb37f6cf-0597-4544-992b-d9e547ab09ad.jpg)
-* **Database Diagram**:
+<!-- <img src="https://user-images.githubusercontent.com/69918609/134770611-fb37f6cf-0597-4544-992b-d9e547ab09ad.jpg" width=500 height=500>> -->
+* **Database Diagram**: <p>
 ![Database Diagram](https://user-images.githubusercontent.com/69918609/134770631-84834784-166a-4934-aafc-e5c5952322c0.jpg)
-* **Sequence Diagram**:
+* **Sequence Diagram**: <p>
 ![Lab 4 2  Sequence diagram-Sequence Diagrams](https://user-images.githubusercontent.com/69918609/134770645-c04453de-abd8-4a8d-895e-64d2c119eee3.jpg)
-* **Static View**:
+* **Static View**: <p>
 ![Lab 3 1  Static_Dynamic_Allocation views-Static View](https://user-images.githubusercontent.com/69918609/134770668-5b6cb7cf-cecf-44f4-9e2f-2698267a4875.jpg)
-* **Dynamic View**:
+* **Dynamic View**: <p>
 ![Lab 3 1  Static_Dynamic_Allocation views-Dynamic view](https://user-images.githubusercontent.com/69918609/134770681-9bcfec20-69cf-49c3-8dc5-451aa73b84b5.jpg)
-* **Allocation View**:
+* **Allocation View**:<p>
 ![Lab 3 1  Static_Dynamic_Allocation views-Allocation view](https://user-images.githubusercontent.com/69918609/134770704-649a47ae-837a-4856-beb4-bfd72bed6a1f.jpg)
 
 
