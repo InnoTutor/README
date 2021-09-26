@@ -49,7 +49,6 @@ The problem we are trying to solve is to fulfill students’ needs in some hard 
 <br>
 <br>
 
-
 ## Backlog 📃
 You can track our user stories on the Trello board. <br>
 Link: https://trello.com/b/5xWBSmzG
