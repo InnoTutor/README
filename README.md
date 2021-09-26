@@ -36,6 +36,8 @@ The problem we are trying to solve is to fulfill students’ needs in some hard 
 <!-- <img src="https://user-images.githubusercontent.com/69918609/134770611-fb37f6cf-0597-4544-992b-d9e547ab09ad.jpg" width=500 height=500>> -->
 * **Database Diagram**: <p>
 ![Database Diagram](https://user-images.githubusercontent.com/69918609/134770631-84834784-166a-4934-aafc-e5c5952322c0.jpg)
+ * **Class Diagram**: <p>
+![Class Diagram](https://user-images.githubusercontent.com/49106163/134800752-965bcaec-fbc5-45a3-93bd-9727b492a216.png)
 * **Sequence Diagram**: <p>
 ![Lab 4 2  Sequence diagram-Sequence Diagrams](https://user-images.githubusercontent.com/69918609/134770645-c04453de-abd8-4a8d-895e-64d2c119eee3.jpg)
 * **Static View**: <p>
@@ -46,6 +48,7 @@ The problem we are trying to solve is to fulfill students’ needs in some hard 
 ![Lab 3 1  Static_Dynamic_Allocation views-Allocation view](https://user-images.githubusercontent.com/69918609/134770704-649a47ae-837a-4856-beb4-bfd72bed6a1f.jpg)
 <br>
 <br>
+
 
 ## Backlog 📃
 You can track our user stories on the Trello board. <br>
