@@ -35,9 +35,9 @@ The problem we are trying to solve is to fulfill students’ needs in some hard 
 ![Lab 3 2  Diagrams-UML Use Case Diagram](https://user-images.githubusercontent.com/69918609/134770611-fb37f6cf-0597-4544-992b-d9e547ab09ad.jpg)
 <!-- <img src="https://user-images.githubusercontent.com/69918609/134770611-fb37f6cf-0597-4544-992b-d9e547ab09ad.jpg" width=500 height=500>> -->
 * **Database Diagram**: <p>
-![Database Diagram](https://user-images.githubusercontent.com/69918609/134770631-84834784-166a-4934-aafc-e5c5952322c0.jpg)
+![Database Diagram](https://user-images.githubusercontent.com/49106163/135507524-f754c10b-c931-4663-b1e5-adfbc215eb56.jpg)
  * **Class Diagram**: <p>
-![Class Diagram](https://user-images.githubusercontent.com/49106163/135214876-34ce3d5b-3ead-4642-8b1f-87091d3dd43e.png)
+![Class Diagram](https://user-images.githubusercontent.com/49106163/135507554-4b746e8d-0634-41cb-9f61-580d187c84ea.png)
 * **Sequence Diagram**: <p>
 ![Lab 4 2  Sequence diagram-Sequence Diagrams](https://user-images.githubusercontent.com/69918609/134770645-c04453de-abd8-4a8d-895e-64d2c119eee3.jpg)
 * **Static View**: <p>
@@ -58,4 +58,3 @@ Link: https://trello.com/b/5xWBSmzG
 | As a tutor, I want to see a list of students who asked for help, so that I can offer my help to someone. (SHOULD) | As a tutor, I want to see a list of students who asked for help, so that I can offer my help to someone. (SHOULD)<br><br>As a tutor, I want to respond to a student's request, so that he/she will see that I am ready to help. (COULD)<br><br>As a student, I want to have an availability to upload a request asking for help, so that tutors can see me and help me. (SHOULD) |As a student, I want to see a list of tutors who responded to my request for help, so that I can choose the one with which I want to study. (COULD)<br><br>As a student, I want to specify a subject which I want to study, so that tutors will see my subject’s request. (SHOULD)<br><br>As a student, I want to specify the type of meetings, so that tutors will see the format (private/group) and the type (online/offline) of sessions which I prefer most. (COULD)|
 | As a tutor, I want to create a new session with my students for a particular subject, so that my students will see an upcoming event in the calendar. (SHOULD)s | As a tutor, I want to specify the type of upcoming meeting, so that students will see the format (private/group) and the type (online/offline) of a session that I am going to conduct. (SHOULD)<br><br> As a student, I want to have a calendar of upcoming sessions, so that I will see the schedule of meetings that my tutors are going to conduct. (SHOULD)|  |
 |As a user of the website, I want to have my profile, so that I can have a saved list of upcoming sessions and personal information. (MUST) |As a user of the website, I want to log in to the website, so that I can access my profile. (MUST)<br><br>As a user, I want to specify my contacts, so that other users know how to contact me. (SHOULD)<br><br>As a student, I want to rate the tutor I've been studying with, so that other students could see it while choosing a tutor. (COULD)|As a user of the website, I want to log in using Innopolis credentials, so that there is no need to register. (SHOULD)<br><br>As a tutor, I want to see the rates which my students submit, so that I can see the quality of my services. (COULD)
-
