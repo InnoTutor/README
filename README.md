@@ -35,7 +35,7 @@ The problem we are trying to solve is to fulfill students’ needs in some hard 
 ![Lab 3 2  Diagrams-UML Use Case Diagram](https://user-images.githubusercontent.com/69918609/134770611-fb37f6cf-0597-4544-992b-d9e547ab09ad.jpg)
 <!-- <img src="https://user-images.githubusercontent.com/69918609/134770611-fb37f6cf-0597-4544-992b-d9e547ab09ad.jpg" width=500 height=500>> -->
 * **Database Diagram**: <p>
-![Database Diagram](https://user-images.githubusercontent.com/49106163/135507524-f754c10b-c931-4663-b1e5-adfbc215eb56.jpg)
+![Database Diagram](https://user-images.githubusercontent.com/49106163/136595438-587bd5b5-4a1c-4c7e-aeaf-18e0056d1c24.jpg)
  * **Class Diagram**: <p>
 ![Class Diagram](https://user-images.githubusercontent.com/49106163/135507554-4b746e8d-0634-41cb-9f61-580d187c84ea.png)
 * **Sequence Diagram**: <p>
