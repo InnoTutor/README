@@ -18,6 +18,8 @@ The problem we are trying to solve is to fulfill students’ needs in some hard 
 * The built platform should be able to manage meeting schedules, tutors’ and students’ availability.
 * The system should handle authentication with university accounts.
 * The build application needs to award the tutors (university’s students) by the internal university’s currency (innopoints) or by discussing other awards with the university itself.
+
+# Requirements
 ## Glossary 📝
 * **User**: anyone who uses the “InnoTutor” website.
 * **Tutor**: a university student who offers help in some academic courses.
@@ -55,7 +57,7 @@ You can check our backlog with user stories by following the [link](https://gith
 ## Non-functional requirements ✅
 To check non-functional requirements of our project, follow the [link](https://github.com/InnoTutor/README/blob/main/NonFunctionalRequirements/NonFunctionalRequirements.md)
 
-
+# Design
 ## Diagrams 📊
 * [Class Diagram](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/ClassDiagram.md): <p>
 * [Sequence Diagram](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/SequenceDiagram.md): <p>
@@ -64,5 +66,15 @@ To check non-functional requirements of our project, follow the [link](https://g
 * [Static View](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/StaticViewDiagram.md): <p>
 * [Dynamic View](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/DynamicViewDiagram.md): <p>
 * [Allocation View](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/AllocationViewDiagram.md):<p>
+ 
+## Design Patterns
+ * How do we used **SOLID**? 
+   * S(ingle responsibility) - each entity has only one resposibility.
+   * O(pen-closed) - each entity is opened for extension and closed for modification. It means that it is possible to add new fields or new elements to the entity(open) and in the same time entity can be used by other classes(closed).
+   * L(iskov substitution) - we did not use this principle since we do not use inheritence in the project.
+   * I(nterface segregation) - we did not use this principle since we did not create any interfaces to be implemented by classes.
+   * D(ependency inversion) - we created interfaces and used them instead of objects (examples: in backend in services.utility.sessionconverter.SessionConverter and dto.searcher.UserCard)
+ * Observer pattern - to notify tutors about students requests and notify students about tutors responds
+ * Adapter pattern - to interpret database data to the another convenient form for the frontend
 <br>
 <br>
