@@ -63,9 +63,7 @@ To check non-functional requirements of our project, follow the [link](https://g
 * [Sequence Diagram](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/SequenceDiagram.md): <p>
 * [Database Diagram](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/DatabaseDiagram.md): <p>
 * [Use Case Diagram](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/UseCaseDiagram.md) <p>
-* [Static View](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/StaticViewDiagram.md): <p>
-* [Dynamic View](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/DynamicViewDiagram.md): <p>
-* [Allocation View](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/AllocationViewDiagram.md):<p>
+
  
 ## Design Patterns
  * How do we used **SOLID**? 
@@ -76,5 +74,18 @@ To check non-functional requirements of our project, follow the [link](https://g
    * D(ependency inversion) - we created interfaces and used them instead of objects (examples: in backend in services.utility.sessionconverter.SessionConverter and dto.searcher.UserCard)
  * Observer pattern - to notify tutors about students requests and notify students about tutors responds
  * Adapter pattern - to interpret database data to the another convenient form for the frontend
+ 
+# Architecture
+ To check the architecture of our application you can check diagrams by following links below.
+* [Static View](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/StaticViewDiagram.md): <p>
+* [Dynamic View](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/DynamicViewDiagram.md): <p>
+* [Allocation View](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/AllocationViewDiagram.md):<p>
+
+# Code
+ * [Link for a working demo](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+ * [The result of PMD static analyzer](https://github.com/InnoTutor/README/blob/main/StaticAnaylyzer/result.md). Do not be scared by such big number of violation. We fixed all the violations that we could fix. Other violation can not be fixed due to spring framework specific code.
+ * Test coverage - !TODO!
+
+
 <br>
 <br>
