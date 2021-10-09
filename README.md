@@ -55,20 +55,12 @@ To check non-functional requirements of our project, follow the [link](https://g
 
 
 ## Diagrams 📊
-* **UML Case Diagram**: <p>
-![Lab 3 2  Diagrams-UML Use Case Diagram](https://user-images.githubusercontent.com/69918609/134770611-fb37f6cf-0597-4544-992b-d9e547ab09ad.jpg)
-<!-- <img src="https://user-images.githubusercontent.com/69918609/134770611-fb37f6cf-0597-4544-992b-d9e547ab09ad.jpg" width=500 height=500>> -->
-* **Database Diagram**: <p>
-![Database Diagram](https://user-images.githubusercontent.com/49106163/136666520-886ffb9d-c2d8-4923-af6a-68f0d2cb8ea5.jpg)
- * **Class Diagram**: <p>
-![Class Diagram](https://user-images.githubusercontent.com/49106163/135507554-4b746e8d-0634-41cb-9f61-580d187c84ea.png)
-* **Sequence Diagram**: <p>
-![Lab 4 2  Sequence diagram-Sequence Diagrams](https://user-images.githubusercontent.com/69918609/134770645-c04453de-abd8-4a8d-895e-64d2c119eee3.jpg)
-* **Static View**: <p>
-![Lab 3 1  Static_Dynamic_Allocation views-Static View](https://user-images.githubusercontent.com/69918609/134770668-5b6cb7cf-cecf-44f4-9e2f-2698267a4875.jpg)
-* **Dynamic View**: <p>
-![Lab 3 1  Static_Dynamic_Allocation views-Dynamic view](https://user-images.githubusercontent.com/69918609/134770681-9bcfec20-69cf-49c3-8dc5-451aa73b84b5.jpg)
-* **Allocation View**:<p>
-![Lab 3 1  Static_Dynamic_Allocation views-Allocation view](https://user-images.githubusercontent.com/69918609/134770704-649a47ae-837a-4856-beb4-bfd72bed6a1f.jpg)
+* [Class Diagram](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/ClassDiagram.md): <p>
+* [Sequence Diagram](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/SequenceDiagram.md): <p>
+* [Database Diagram](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/DatabaseDiagram.md): <p>
+* [Use Case Diagram](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/UseCaseDiagram.md) <p>
+* [Static View](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/StaticViewDiagram.md): <p>
+* [Dynamic View](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/DynamicViewDiagram.md): <p>
+* [Allocation View](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/AllocationViewDiagram.md):<p>
 <br>
 <br>
