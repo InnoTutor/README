@@ -59,7 +59,7 @@ To check non-functional requirements of our project, follow the [link](https://g
 ![Lab 3 2  Diagrams-UML Use Case Diagram](https://user-images.githubusercontent.com/69918609/134770611-fb37f6cf-0597-4544-992b-d9e547ab09ad.jpg)
 <!-- <img src="https://user-images.githubusercontent.com/69918609/134770611-fb37f6cf-0597-4544-992b-d9e547ab09ad.jpg" width=500 height=500>> -->
 * **Database Diagram**: <p>
-![Database Diagram](https://user-images.githubusercontent.com/49106163/136595438-587bd5b5-4a1c-4c7e-aeaf-18e0056d1c24.jpg)
+![Database Diagram](https://user-images.githubusercontent.com/49106163/136666520-886ffb9d-c2d8-4923-af6a-68f0d2cb8ea5.jpg)
  * **Class Diagram**: <p>
 ![Class Diagram](https://user-images.githubusercontent.com/49106163/135507554-4b746e8d-0634-41cb-9f61-580d187c84ea.png)
 * **Sequence Diagram**: <p>
@@ -72,5 +72,3 @@ To check non-functional requirements of our project, follow the [link](https://g
 ![Lab 3 1  Static_Dynamic_Allocation views-Allocation view](https://user-images.githubusercontent.com/69918609/134770704-649a47ae-837a-4856-beb4-bfd72bed6a1f.jpg)
 <br>
 <br>
- 
-
