@@ -7,7 +7,7 @@
 ## Contents
 
 - [What is the goal of this project?](#what-is-the-goal-of-this-project)
-- [Requirements](#rrequirements)
+- [Requirements](#requirements)
 - [Design](#design)
 - [Architecture](#architecture)
 - [Code](#code)
