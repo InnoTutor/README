@@ -4,13 +4,17 @@
 **Authors**: Daniil Livitn, Roman Soldatov, Emil Khabibulin, Tasneem Toolba
 <br><br>
 
-## What is the goal of this project?
+# What is the goal of this project?
 The problem we are trying to solve is to fulfill students’ needs in some hard courses by the help of other students who are/were good at those hard courses, and make the university consider such help as an official student activity so that those students who helped others, get awarded. 
 * Build a platform for **Innopolis university** students to share their knowledge, where students that are good in some courses and want to help others know where to inform others about this willingness to help.
 * The website needs to manage how each of the students and tutors finds each other, and communicate.
 * The built platform should be able to manage meeting schedules, tutors’ and students’ availability.
 * The system should handle authentication with **university accounts**.
 * The build application needs to award the tutors (university’s students) by the internal university’s currency (**innopoints**) or by discussing other awards with the university itself.
+
+## Demo
+* Here is a [video demo](https://www.youtube.com/watch?v=dQw4w9WgXcQ) of our project
+* You can try it for yourself here [https://innotutor.github.io/Frontend/#/](https://innotutor.github.io/Frontend/#/)
 
 # Requirements
 **Technical Stack**: <br>
@@ -91,10 +95,8 @@ To check our RUP check this [link](https://docs.google.com/document/d/1Sv2SmeUKp
 * [Allocation View](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/AllocationViewDiagram.md):<p>
 
 # Code
- * [Link for a working demo](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
  * [The result of PMD static analyzer](https://github.com/InnoTutor/README/blob/main/StaticAnaylyzer/result.md). Do not be scared by such big number of violation. We fixed all the violations that we could fix. Other violation can not be fixed due to spring framework specific code which reuires to follow special name convention, so the framework could understand fields and create particular [Beans](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans-definition).
  * Test coverage - !TODO!
-
 
 <br>
 <br>
