@@ -13,7 +13,7 @@ The problem we are trying to solve is to fulfill students’ needs in some hard 
 * The build application needs to award the tutors (university’s students) by the internal university’s currency (**innopoints**) or by discussing other awards with the university itself.
 
 # Requirements
-**Technologies**: <br>
+**Technical Stack**: <br>
 * **Flutter (FrontEnd)**: UI cross platform applications for Android, IOS , and WEB
   * Visual Studio Code and Android Studio are used as an IDE
   * Link to the repository: [Frontend Repository](https://github.com/InnoTutor/Frontend)
