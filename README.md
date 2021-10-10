@@ -24,6 +24,7 @@ The problem we are trying to solve is to fulfil students’ needs in some hard c
 ## Demo
 * Here is a [video demo](https://drive.google.com/file/d/1n0lI_3xRVsFf47ZuIdyjzjOtgX_JOIXh/view?usp=sharing) of our project
 * You can try it for yourself here https://innotutor.github.io/Frontend/
+* This is a [mockup](https://docs.google.com/presentation/d/17XItp1uzWY9vBHsJgvH0ohUi3qAjG4GlP1UZ5NRRgFU/edit?usp=sharing) presentation explaining our ideas
 
 # Requirements
 **Technical Stack**: <br>
