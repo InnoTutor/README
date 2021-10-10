@@ -22,7 +22,7 @@ The problem we are trying to solve is to fulfil students’ needs in some hard c
 * The build application needs to award the tutors (university students) by the internal university’s currency (**innopoints**) or by discussing other awards with the university itself.
 
 ## Demo
-* Here is a [video demo](https://www.youtube.com/watch?v=dQw4w9WgXcQ) of our project
+* Here is a [video demo](https://drive.google.com/file/d/10uWjJ3jlzC97H1e1swQo15nx8M_Ohy1E/view?usp=sharing) of our project
 * You can try it for yourself here https://innotutor.github.io/Frontend/
 
 # Requirements
