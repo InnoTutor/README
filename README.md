@@ -6,12 +6,12 @@
 
 ## Contents
 
-- [What is the goal of this project?](#project_goal)
-- [Requirements](#requirements)
+- [What is the goal of this project?](#what-is-the-goal-of-this-project)
+- [Requirements](#rrequirements)
 - [Design](#design)
 - [Architecture](#architecture)
 - [Code](#code)
-- [Want to contribute?](#contribution)
+- [Want to contribute?](#want-to-contribute)
 
 # What is the goal of this project?
 The problem we are trying to solve is to fulfil students’ needs in some hard courses with the help of other students who are/were good at those hard courses, and make the university consider such help as an official student activity so that those students who helped others, get awarded. 
@@ -119,6 +119,3 @@ To check our RUP open this [link](https://docs.google.com/document/d/1Sv2SmeUKpc
 # Want to contribute?
 You can contribute in the frontend and backend. Just fork the repository from the `develop` branch, implement changes you want to propose and make a pull request.
 Also, there are issues in [backend](https://github.com/InnoTutor/Backend/issues) and [frontend](https://github.com/InnoTutor/Frontend/issues), feel free to submit a new one or participate in existing.
-
-<br>
-<br>
