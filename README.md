@@ -25,6 +25,10 @@ The problem we are trying to solve is to fulfill students’ needs in some hard 
   * IntelliJ IDEA IDE
   * Link to the repository: [Backend Repository](https://github.com/InnoTutor/Backend)
   * Link to the [API documentation](https://documenter.getpostman.com/view/16213957/UUy65PgU)
+> For this open source project we used the simplest registration way via Google [Firebase](https://firebase.google.com)
+> - as a website user you need to have Google account
+> - as a developer, who is going to host this project version, you need to get own Google credentials.
+
 <br><br>
 ## Glossary 📝
 * **User**: anyone who uses the “InnoTutor” website.
