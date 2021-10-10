@@ -3,15 +3,8 @@
 <img src="https://img.shields.io/github/stars/InnoTutor/README?style=social">ᅠ  <img src="https://img.shields.io/github/stars/InnoTutor/Frontend?style=social">ᅠ<img src="https://img.shields.io/github/stars/InnoTutor/Backend?style=social">   ᅠ [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/InnoTutor/Backend/blob/main/LICENSE) ᅠ   [![Hits-of-Code](https://hitsofcode.com/github/InnoTutor/Backend?branch=main)](https://hitsofcode.com/github/InnoTutor/Backend/view?branch=main)<br><br><br>
 **Authors**: Daniil Livitn, Roman Soldatov, Emil Khabibulin, Tasneem Toolba
 <br><br>
-**Technologies**: <br>
-* **Flutter (FrontEnd)**: UI cross platform applications for Android, IOS , and WEB
-  * Visual Studio Code and Android Studio are used as an IDE
-  * Link to the repo: [Frontend Repository](https://github.com/InnoTutor/Frontend)
 
-* **Java Spring Boot, Firebase, Docker, PostgeSQL (BackEnd)**: <br>
-  * IntelliJ IDEA IDE
-  * Link to the repo: [Backend Repository](https://github.com/InnoTutor/Backend)
-## What is the goal of the project?
+## What is the goal of this project?
 The problem we are trying to solve is to fulfill students’ needs in some hard courses by the help of other students who are/were good at those hard courses, and make the university consider such help as an official student activity so that those students who helped others, get awarded. 
 * Build a platform for **Innopolis university** students to share their knowledge, where students that are good in some courses and want to help others know where to inform others about this willingness to help.
 * The website needs to manage how each of the students and tutors finds each other, and communicate.
@@ -20,6 +13,14 @@ The problem we are trying to solve is to fulfill students’ needs in some hard 
 * The build application needs to award the tutors (university’s students) by the internal university’s currency (**innopoints**) or by discussing other awards with the university itself.
 
 # Requirements
+**Technologies**: <br>
+* **Flutter (FrontEnd)**: UI cross platform applications for Android, IOS , and WEB
+  * Visual Studio Code and Android Studio are used as an IDE
+  * Link to the repository: [Frontend Repository](https://github.com/InnoTutor/Frontend)
+* **Java Spring Boot, Firebase, Docker, PostgeSQL (BackEnd)**: <br>
+  * IntelliJ IDEA IDE
+  * Link to the repository: [Backend Repository](https://github.com/InnoTutor/Backend)
+<br><br>
 ## Glossary 📝
 * **User**: anyone who uses the “InnoTutor” website.
 * **Tutor**: a university student who offers help in some academic courses.
