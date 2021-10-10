@@ -4,7 +4,14 @@
 **Authors**: Daniil Livitn, Roman Soldatov, Emil Khabibulin, Tasneem Toolba
 <br><br>
 
-# What is the goal of this project?
+<a name="project_goal"></a> 
+<a name="requirements"></a> 
+<a name="design"></a>
+<a name="architecture"></a>
+<a name="code"></a> 
+<a name="contribution"></a> 
+
+# [What is the goal of this project?](#project_goal)
 The problem we are trying to solve is to fulfil students’ needs in some hard courses with the help of other students who are/were good at those hard courses, and make the university consider such help as an official student activity so that those students who helped others, get awarded. 
 * Build a platform for **Innopolis University** students to share their knowledge, where students that are good in some courses and want to help others know where to inform others about this willingness to help.
 * The website needs to manage how each of the students and tutors finds each other and communicate.
@@ -16,7 +23,7 @@ The problem we are trying to solve is to fulfil students’ needs in some hard c
 * Here is a [video demo](https://www.youtube.com/watch?v=dQw4w9WgXcQ) of our project
 * You can try it for yourself here https://innotutor.github.io/Frontend/
 
-# Requirements
+# [Requirements](#requirements)
 **Technical Stack**: <br>
 * **Flutter (FrontEnd)**: UI cross-platform applications for Android, IOS, and WEB
   * Visual Studio Code and Android Studio are used as an IDE
@@ -77,7 +84,7 @@ To check the non-functional requirements of our project, follow the [link](https
 ## Project plan according to RUP 🗒
 To check our RUP open this [link](https://docs.google.com/document/d/1Sv2SmeUKpcUjFgHgZRe0B2ob0WqhSORy/edit?usp=sharing&ouid=104971567017082470840&rtpof=true&sd=true)
 
-# Design
+# [Design](#design)
 ## Diagrams 📊
 * [Class Diagram](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/ClassDiagram.md) <p>
 * [Sequence Diagram](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/SequenceDiagram.md) <p>
@@ -95,19 +102,19 @@ To check our RUP open this [link](https://docs.google.com/document/d/1Sv2SmeUKpc
  * **Observer pattern**- to notify tutors about students requests and notify students about tutors responds
  * **Adapter pattern** - to interpret database data to another convenient form for the frontend
  
-# Architecture
+# [Architecture](#architecture)
  To check the architecture of our application, you can open diagrams by following the links below.
 * [Static View](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/StaticViewDiagram.md) <p>
 * [Dynamic View](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/DynamicViewDiagram.md) <p>
 * [Allocation View](https://github.com/InnoTutor/README/blob/main/UMLDiagrams/AllocationViewDiagram.md)<p>
 
-# Code
+# [Code](#code)
  * [The result of PMD static analyzer](https://github.com/InnoTutor/README/blob/main/StaticAnaylyzer/result.md). Do not be scared by such a huge number of violations. We fixed all the violations that we could fix. Other violations can not be fixed due to spring framework-specific code which requires to follow special name convention, so the framework could understand fields and create particular [Beans](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans-definition).
  * Test coverage - !TODO!
  
-  # Want to contribute?
- You can contribute in the frontend and backend. Just fork the repository from the `develop` branch, implement changes you want to propose and make a pull request.
- Also, there are issues in [backend](https://github.com/InnoTutor/Backend/issues) and [frontend](https://github.com/InnoTutor/Frontend/issues), feel free to submit a new one or participate in existing.
+# [Want to contribute?](#contribution)
+You can contribute in the frontend and backend. Just fork the repository from the `develop` branch, implement changes you want to propose and make a pull request.
+Also, there are issues in [backend](https://github.com/InnoTutor/Backend/issues) and [frontend](https://github.com/InnoTutor/Frontend/issues), feel free to submit a new one or participate in existing.
 
 <br>
 <br>
