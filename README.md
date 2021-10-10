@@ -24,6 +24,7 @@ The problem we are trying to solve is to fulfill students’ needs in some hard 
 * **Java Spring Boot, Firebase, Docker, PostgeSQL (BackEnd)**: <br>
   * IntelliJ IDEA IDE
   * Link to the repository: [Backend Repository](https://github.com/InnoTutor/Backend)
+  * Link to the [API documentation](https://documenter.getpostman.com/view/16213957/UUy65PgU)
 <br><br>
 ## Glossary 📝
 * **User**: anyone who uses the “InnoTutor” website.
