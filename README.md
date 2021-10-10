@@ -56,11 +56,11 @@ The problem we are trying to solve is to fulfil students’ needs in some hard c
 * **End User**: university students that would be either as tutors for students, or students who will be responsible for continuous feedback as a use (**tutors ratings** will be provided)<br>
  **Stake**: Service Quality
 * **Development Team**
-  * Developer 1 – Backend developer. Implement the backend on Java/Spring which interacts with the PostgreSQL database.
-  * Developer 2 – Backend developer. Implement the backend on Java/Spring which returns the result to the frontend via REST API.
-  * Developer 3 – Backend developer. Write tests for the Backend.
-  * Developer 4 – Frontend developer. Integrate backend with frontend and implement the logic of UI elements.
-  * Developer 5 – Frontend developer. Create and implement a user-friendly design using Flutter, containing all the features made on the backend where all developers will test their parts before integrating parts. <br>
+  * **Developer 1** – Backend developer. Implement the backend on Java/Spring which interacts with the PostgreSQL database.
+  * **Developer 2** – Backend developer. Implement the backend on Java/Spring which returns the result to the frontend via REST API.
+  * **Developer 3** – Backend developer. Write tests for the Backend.
+  * **Developer 4** – Frontend developer. Integrate backend with frontend and implement the logic of UI elements.
+  * **Developer 5** – Frontend developer. Create and implement a user-friendly design using Flutter, containing all the features made on the backend where all developers will test their parts before integrating parts. <br>
  **Stake**: Development process
 * **Project Manager & lead**:  Professor Yegor Bugaenko and our TA Aleksandr Tsupko 
   * Professor and TA: managing the project by controlling the entire creation process, considering problems, needs during the process, giving advice (*call to action* from lectures and practices from labs) and considering testing the final product.<br>
@@ -104,6 +104,10 @@ To check our RUP open this [link](https://docs.google.com/document/d/1Sv2SmeUKpc
 # Code
  * [The result of PMD static analyzer](https://github.com/InnoTutor/README/blob/main/StaticAnaylyzer/result.md). Do not be scared by such a huge number of violations. We fixed all the violations that we could fix. Other violations can not be fixed due to spring framework-specific code which requires to follow special name convention, so the framework could understand fields and create particular [Beans](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans-definition).
  * Test coverage - !TODO!
+ 
+  # Want to contribute?
+ You can contribute in the frontend and backend. Just fork the repository from the `develop` branch, implement changes you want to propose and make a pull request.
+ Also, there are issues in [backend](https://github.com/InnoTutor/Backend/issues) and [frontend](https://github.com/InnoTutor/Frontend/issues), feel free to submit a new one or participate in existing.
 
 <br>
 <br>
