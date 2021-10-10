@@ -114,7 +114,7 @@ To check our RUP open this [link](https://docs.google.com/document/d/1Sv2SmeUKpc
 
 # Code
  * [The result of PMD static analyzer](https://github.com/InnoTutor/README/blob/main/StaticAnaylyzer/result.md). Do not be scared by such a huge number of violations. We fixed all the violations that we could fix. Other violations can not be fixed due to spring framework-specific code which requires to follow special name convention, so the framework could understand fields and create particular [Beans](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans-definition).
- * Test coverage - !TODO!
+ * [Test coverage result](https://github.com/InnoTutor/README/blob/main/TestCoverage/resultTestCoverage.md)
  
 # Want to contribute?
 You can contribute in the frontend and backend. Just fork the repository from the `develop` branch, implement changes you want to propose and make a pull request.
