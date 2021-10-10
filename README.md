@@ -41,7 +41,7 @@ The problem we are trying to solve is to fulfill students’ needs in some hard 
 * **Innopoints**: the internal currency of the Innopolis University with which you can make purchases in a special store or use in the canteen to buy lunches.
 * **Innopolis email**: an email that can get only students and staff of Innopolis University.
 
-## Stakeholders and their roles
+## Stakeholders and their roles 👤
 * **End User**: university students that would be either as tutors for students, or students who will be responsible for a continuous feedback as a use (**tutors ratings** will be provided)<br>
  **Stake**: Service Quality
 * **Development Team**
@@ -62,6 +62,9 @@ You can check our backlog with user stories by following the [link](https://gith
 
 ## Non-functional requirements ✅
 To check non-functional requirements of our project, follow the [link](https://github.com/InnoTutor/README/blob/main/NonFunctionalRequirements/NonFunctionalRequirements.md)
+
+## Project plan according to RUP 🗒
+To check our RUP check this [link](https://docs.google.com/document/d/1Sv2SmeUKpcUjFgHgZRe0B2ob0WqhSORy/edit?usp=sharing&ouid=104971567017082470840&rtpof=true&sd=true)
 
 # Design
 ## Diagrams 📊
