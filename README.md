@@ -28,6 +28,8 @@ The problem we are trying to solve is to fulfill students’ needs in some hard 
 > For this open source project we used the simplest registration way via Google [Firebase](https://firebase.google.com)
 > - as a website user you need to have Google account
 > - as a developer, who is going to host this project version, you need to get own Google credentials.
+> 
+> In case of using this project in **Innopolis University** we'll change authentication to **innopolis email** login page.
 
 <br><br>
 ## Glossary 📝
