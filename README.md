@@ -27,6 +27,8 @@ The problem we are trying to solve is to fulfil students’ needs in some hard c
 
 # Requirements
 **Technical Stack**: <br>
+
+The project is splitted by **frontend** and **backend** parts. They communicate through [REST API](https://en.wikipedia.org/wiki/Representational_state_transfer) sending [JSON](https://en.wikipedia.org/wiki/JSON) objects.
 * **Flutter (FrontEnd)**: UI cross-platform applications for Android, IOS, and WEB
   * Visual Studio Code and Android Studio are used as an IDE
   * Link to the repository with detailed information: [Frontend Repository](https://github.com/InnoTutor/Frontend)
