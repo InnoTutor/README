@@ -26,6 +26,21 @@ The problem we are trying to solve is to fulfil students’ needs in some hard c
 * You can try it for yourself here https://innotutor.github.io/Frontend/
 * This is a [mockup](https://docs.google.com/presentation/d/17XItp1uzWY9vBHsJgvH0ohUi3qAjG4GlP1UZ5NRRgFU/edit?usp=sharing) presentation explaining our ideas
 
+## Why is it better than simple Google forms requests?
+* No need for a moderator. **Students** themselves can offer or ask for help, find each other.
+
+* When searching **students** or **tutors**, a **user** can use filters by preference: offline or online, group lesson or one-on-one. Then, when submitting a request, wishes will be taken into account.
+
+* A **tutor** who wants to conduct classes can visually see the list of **students**, who have enrolled to him, and their preferences, which will be taken into account while creating a new session.
+
+* After the conducted session, a **student** can rate a **tutor**. Others will see how well he teaches, which can also help with the choice, and for **tutors**, it is an additional motivation to do their best.
+
+* If something happens, the **student** can refuse to continue attending classes with just one click. Also, a **tutor** can pause his classes with current **students**, open or close a **CV card** for new people with just one click. So, there are no obligations, for example, to study with the **student** strictly the whole semester, no matter what.
+
+* To conduct classes, a **tutor** must create a **session** that will be automatically shown in the **students'** calendar. There is a checker to see if the schedule overlaps with other scheduled appointments.
+
+* All conducted **sessions** can be imported as a CSV file with statistics: who taught what, how many hours of tutoring in total, how many students were enrolled, etc. You don't need to manually calculate anything.
+
 # Requirements
 **Technical Stack**: <br>
 
